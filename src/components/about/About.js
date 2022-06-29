@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaAward, FaFolderOpen } from 'react-icons/fa';
 import './about.css';
-import myProfile from '../../assets/profile.jpg';
+import myProfile from '../../assets/ruby.jpg';
 
 const About = () => (
   <section id="about">
