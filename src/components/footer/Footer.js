@@ -43,7 +43,6 @@ const Footer = () => (
 
     <div className="footer__copyright">
       <small>&copy; Vahan Khachvankian portfolio. All rights reserved. </small>
-      <small>Design was inspired by EGATOR designer</small>
     </div>
   </footer>
 );
