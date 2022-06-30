@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AiOutlineHome, AiOutlineUser } from 'react-icons/ai';
-import { BiBookBookmark, BiMessageSquareDetail } from 'react-icons/bi';
+import { BiMessageSquareDetail } from 'react-icons/bi';
 import './nav.css';
 
 function Nav() {
@@ -19,11 +19,6 @@ function Nav() {
       <a href="#about" className={activeNav === '#about' ? 'active' : ''}>
         <button type="button" onClick={() => setActive('#about')}>
           <AiOutlineUser />
-        </button>
-      </a>
-      <a href="#experience" className={activeNav === '#experience' ? 'active' : ''}>
-        <button type="button" onClick={() => setActive('#experience')}>
-          <BiBookBookmark />
         </button>
       </a>
       <a href="#contact" className={activeNav === '#contact' ? 'active' : ''}>
