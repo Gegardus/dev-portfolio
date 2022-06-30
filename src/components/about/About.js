@@ -1,7 +1,9 @@
 import React from 'react';
 import { FaAward, FaFolderOpen } from 'react-icons/fa';
 import './about.css';
-import myProfile from '../../assets/ruby.jpg';
+import myProfile1 from '../../assets/ruby.jpg';
+import myProfile2 from '../../assets/react.png';
+import myProfile3 from '../../assets/ror.jpg';
 
 const About = () => (
   <section id="about">
@@ -10,7 +12,9 @@ const About = () => (
     <div className="container about__container">
       <div className="about__me">
         <div className="about__me-image">
-          <img src={myProfile} alt="my profile" />
+          <img src={myProfile1} alt="my profile" />
+          <img src={myProfile2} alt="my profile" />
+          <img src={myProfile3} alt="my profile" />
         </div>
       </div>
       <div className="about__content">
