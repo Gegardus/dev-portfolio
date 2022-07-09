@@ -14,7 +14,7 @@ const projectData = [
     image: ProjectImage1,
     title: 'Carsharing',
     description:
-      'This is a car rental website that allows users to view a variety of cars and book them.',
+      'React App front-end, Ruby on Rails back-end. This is a car rental website that allows users to view a variety of cars and book them.',
     github: 'https://github.com/Gegardus/book-a-car-frontend',
     demo: 'https://rent-car-service.netlify.app/'
   },
@@ -24,7 +24,7 @@ const projectData = [
     image: ProjectImage2,
     title: 'Math magicians',
     description:
-      '"Math magicians" is a website dedicated to fans of mathematics. It allows users to make simple calculations.',
+      'React App. "Math magicians" is a website dedicated to fans of mathematics. It allows users to make simple calculations.',
     github: 'https://github.com/Gegardus/math-magicians',
     demo: 'https://621b7e84632f900007382f4c--inspiring-banach-df4707.netlify.app/'
   },
@@ -33,7 +33,8 @@ const projectData = [
     id: 3,
     image: ProjectImage3,
     title: 'Conference',
-    description: 'The idea of a fictitious conference is borrowed from the film "Don\'t Look Up".',
+    description:
+      'HTML, CSS, Javascript. The idea of a fictitious conference is borrowed from the film "Don\'t Look Up".',
     github: 'https://github.com/Gegardus/Conference-Page',
     demo: 'https://gegardus.github.io/Conference-Page/'
   },
@@ -43,7 +44,7 @@ const projectData = [
     image: ProjectImage4,
     title: 'Pick a movie',
     description:
-      'An application based on the external TVmaze API and allows users to pick their favourite movie.',
+      'HTML, CSS, Javascript, Webpack. An application based on the external TVmaze API and allows users to pick their favourite movie.',
     github: 'https://github.com/Gegardus/JS-Capstone-Webapp',
     demo: 'https://gegardus.github.io/JS-Capstone-Webapp/'
   },
@@ -54,7 +55,7 @@ const projectData = [
     title: 'Stock metrics',
     github: 'https://github.com/Gegardus/stock-metrics',
     description:
-      'This app displays a list of popular stock market prices and details of different companies economic activity.',
+      'React App. This app displays a list of popular stock market prices and details of different companies economic activity.',
     demo: 'https://arcane-earth-56373.herokuapp.com/'
   },
 
@@ -64,7 +65,7 @@ const projectData = [
     title: 'Budget manager',
     github: 'https://github.com/Gegardus/budget-manager',
     description:
-      'User of this app can manage his/her budget, having a list of transactions associated with a category.',
+      'Ruby on Rails. User of this app can manage his/her budget, having a list of transactions associated with a category.',
     demo: 'https://pacific-castle-28636.herokuapp.com/'
   }
 ];
