@@ -33,13 +33,13 @@ const About = () => (
         </div>
 
         <p>
-          My way in software development stated in November 2021 when I was accepted at the
-          Microverse, an online software development school based in California, USA.In the process
+          My way in software development started in November 2021 when I got into Microverse,
+          an online software development school based in California, USA.In the process
           of learning, I created projects in HTML/CSS/JS. Microverse equiped me with
-          international-standard software development skills, remote working and working in a
-          cross-cultural environment. I&apos;ve been fully immersed in remote development, building
-          everything from landing pages to Rails APIs.
-        </p>
+          international-standard software development skills, remote working, and a
+          cross-cultural environment. I&apos;ve been fully immersed in remote development,
+          building everything from landing pages to Rails APIs.
+        </p>        
 
         <a href="#contact" className="btn btn-primary">
           Contact me
