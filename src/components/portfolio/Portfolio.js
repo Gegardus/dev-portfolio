@@ -62,11 +62,11 @@ const projectData = [
   {
     id: 6,
     image: ProjectImage6,
-    title: 'Budget manager',
-    github: 'https://github.com/Gegardus/budget-manager',
+    title: 'Expenses regulation',
+    github: 'https://github.com/Gegardus/expenses-regulation',
     description:
       'Ruby on Rails. User of this app can manage his/her budget, having a list of transactions associated with a category.',
-    demo: 'https://pacific-castle-28636.herokuapp.com/'
+    demo: 'https://expenses-regulation.herokuapp.com/'
   }
 ];
 
