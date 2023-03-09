@@ -5,7 +5,7 @@ import ProjectImage1 from '../../assets/rent-car.png';
 import ProjectImage2 from '../../assets/math-mag.png';
 import ProjectImage3 from '../../assets/conference.png';
 import ProjectImage4 from '../../assets/movie.png';
-import ProjectImage5 from '../../assets/trend.png';
+import ProjectImage5 from '../../assets/health.png';
 import ProjectImage6 from '../../assets/payment.png';
 
 const projectData = [
@@ -52,11 +52,10 @@ const projectData = [
   {
     id: 5,
     image: ProjectImage5,
-    title: 'Stock metrics',
-    github: 'https://github.com/Gegardus/stock-metrics',
-    description:
-      'React App. This app displays a list of popular stock market prices and details of different companies economic activity.',
-    demo: 'https://arcane-earth-56373.herokuapp.com/'
+    title: 'Healthcare Center',
+    github: 'https://github.com/Gegardus/healthcare-center',
+    description: 'This Ruby on Rails project implements a medical clinic management system',
+    demo: 'https://healthcare-center-production.up.railway.app/'
   },
 
   {
@@ -66,7 +65,7 @@ const projectData = [
     github: 'https://github.com/Gegardus/expenses-regulation',
     description:
       'Ruby on Rails. User of this app can manage his/her budget, having a list of transactions associated with a category.',
-    demo: 'https://expenses-regulation.herokuapp.com/'
+    demo: 'https://expenses-regulation-production.up.railway.app/'
   }
 ];
 
